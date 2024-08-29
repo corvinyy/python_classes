@@ -1,25 +1,4 @@
-import pa
-
-'''class Setup:
-    def __init__ (self,processador, placa_mae, placa_de_video):
-        self.processador = processador
-        self.placa_mae = placa_mae
-        self.placa_de_video = placa_de_video
-
-pc1 = Setup("Ryzen 7 5700", "B550M Aorus ELite", "RX6600"  )
-
-print(pc1())'''
-
-
-'''class Point:
-    def __init__(self):
-        self.x = 0
-        self.y = 0
-
-if __name__ == "main":
-    p = Point()
-    q = Point()'''
-
+import pa 
 
 def lin():
     print(f'{pa.white}-{pa.nc}'*30)
