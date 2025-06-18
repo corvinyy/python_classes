@@ -1,1 +1,2 @@
-# Apenas algumas lições de Python que meu professor passou
+# README
+Apenas as lições práticas de POO em Python que meu professor passa
