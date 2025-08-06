@@ -1,11 +1,9 @@
-# 🎮 WIXUS DATABASE 🎮
+# 🐍 Python Learning Repository
+This repository contains various Python files created during my learning journey. It was built during the early stages of my experience with the language, where I was exploring concepts, testing ideas, and practicing without much structure.
 
-## ⚠️ ATENÇÃO! ⚠️
-Este repositório contém o projeto final de um seminário acadêmico na faculdade, onde foi simulado o banco de dados de uma plataforma de jogos, com operações básicas de CRUD.
-O projeto foi concluído com sucesso e atendeu aos objetivos da apresentação, mas vale um aviso:
-A estrutura do repositório pode estar um pouco desorganizada — tanto nos arquivos quanto no histórico de commits.
-
-
+## ⚠️ ATTENTION ⚠️
+The repository is a bit messy — the files are unorganized, and the commit history is inconsistent. This is because I was still a beginner at the time, learning both Python and how to properly use Git/GitHub.
+Still, I decided to keep it public as a way to document my progress. It might be helpful for other beginners or anyone curious about the early stages of learning to code.
 
 ---
 
