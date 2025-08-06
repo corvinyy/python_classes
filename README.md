@@ -1,9 +1,11 @@
-# ⚠️ ATTENTION! ⚠️
-This repository was created when I was inexperienced, so it is outdated and disorganized, both the commits and the folders.
-But I will keep it here to show what I learned in Python at college, including basic concepts, programming logic, OOP, and databases.
+# 🎮 WIXUS DATABASE 🎮
 
-## 💻 MY PYTHON CLASSES 
-**`Learning programming logic, POO and databases`**
+## ⚠️ ATENÇÃO! ⚠️
+Este repositório contém o projeto final de um seminário acadêmico na faculdade, onde foi simulado o banco de dados de uma plataforma de jogos, com operações básicas de CRUD.
+O projeto foi concluído com sucesso e atendeu aos objetivos da apresentação, mas vale um aviso:
+A estrutura do repositório pode estar um pouco desorganizada — tanto nos arquivos quanto no histórico de commits.
+
+
 
 ---
 
